@@ -1,1 +1,4 @@
-hello world
+# Build settings
+markdown: kramdown
+theme: minima
+
